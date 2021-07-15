@@ -1,0 +1,3 @@
+[submodule "VSC"]
+	path = VSC
+	url = https://github.com/Pacificorp193/JS30.git
